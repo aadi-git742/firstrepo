@@ -1,0 +1,10 @@
+git --version
+git init
+git status
+git log
+git commit -m "message"
+git branch  //to list all existing branches
+git branch <branch name> //to create the branch
+git checkout <branch name>  // to move to given branch name
+git checkout -b <branch name>  //To create and switch branch to given branch name
+
